@@ -7,6 +7,7 @@
 ## 🚀 Overview
 
 This project is a simple web scanner built with Flask. It crawls a target website, discovers pages and forms, and performs automated checks for common web vulnerabilities such as XSS, SQL Injection. The tool is designed for educational and authorized security testing only — do **not** use it against systems you do not own or have permission to test.
+
 ---
 
 ## 📌 Key Features
